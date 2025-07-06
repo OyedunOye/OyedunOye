@@ -1,4 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Oluwasade Oyesina.
+
+I'm a **Junior Software Engineer** passionate about building web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, and **Node.js**, and I'm constantly learning new technologies to improve my craft.
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+Here are a few things I've been working on:
+
+🔹 **[Trafalgar Healthcare Landing Page](https://github.com/OyedunOye/trafalgar-healthcare.git)**
+A landing page UI built with React and CSS.
+
+🔹 **[Weather App](https://github.com/OyedunOye/project2-weather-app.git)**
+A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and Tailwind CSS.
+
+🔹 **[Budget Allocator](https://github.com/OyedunOye/budget_allocator.git)**
+A budgetting app used to allocate expenses amount. It is built with React + Vite, manages state with react context, and styled with Tailwind CSS.
+A markdown-based blog platform built with Next.js.
+
+🔹 **[Note App (frontend)](https://github.com/OyedunOye/note-app-frontend.git)** and
+**[Note App (backend)](https://github.com/OyedunOye/note-app-backend.git)**
+A real-time note taking app with frontend built by React + Vite, and integrated with an Express.js Node backend connected to MongoDB.
+
+🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend.git)** _(in progress)_ and
+**[Shade's Blog App (backend)](https://github.com/OyedunOye/blog-backend.git)**
+A blog app with frontend built in TypeScript with Next.js, and integrated with an Express.js Node backend connected to MongoDB.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/oluwasadeoyesina)
+- 📧 oyesinaoyedun@yahoo.com
+
+---
+
+_Thanks for visiting! 😊_
 
 <!--
 **OyedunOye/OyedunOye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
