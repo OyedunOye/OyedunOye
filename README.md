@@ -31,22 +31,22 @@ I'm a **Junior Software Engineer** passionate about building web apps that solve
 
 Here are a few things I've been working on:
 
-🔹 **[Trafalgar Healthcare Landing Page](https://github.com/OyedunOye/trafalgar-healthcare.git)**
+🔹 **[Trafalgar Healthcare Landing Page](https://github.com/OyedunOye/trafalgar-healthcare)**
 A landing page UI built with React and CSS.
 
-🔹 **[Weather App](https://github.com/OyedunOye/project2-weather-app.git)**
+🔹 **[Weather App](https://github.com/OyedunOye/project2-weather-app)**
 A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and Tailwind CSS.
 
-🔹 **[Budget Allocator](https://github.com/OyedunOye/budget_allocator.git)**
+🔹 **[Budget Allocator](https://github.com/OyedunOye/budget_allocator)**
 A budgetting app used to allocate expenses amount. It is built with React + Vite, manages state with react context, and styled with Tailwind CSS.
 A markdown-based blog platform built with Next.js.
 
-🔹 **[Note App (frontend)](https://github.com/OyedunOye/note-app-frontend.git)** and
-**[Note App (backend)](https://github.com/OyedunOye/note-app-backend.git)**
+🔹 **[Note App (frontend)](https://github.com/OyedunOye/note-app-frontend)** and
+**[Note App (backend)](https://github.com/OyedunOye/note-app-backend)**
 A real-time note taking app with frontend built by React + Vite, and integrated with an Express.js Node backend connected to MongoDB.
 
-🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend.git)** _(in progress)_ and
-**[Shade's Blog App (backend)](https://github.com/OyedunOye/blog-backend.git)**
+🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend)** _(in progress)_ and
+**[Shade's Blog App (backend)](https://github.com/OyedunOye/blog-backend)**
 A blog app with frontend built in TypeScript with Next.js, and integrated with an Express.js Node backend connected to MongoDB.
 
 ---
