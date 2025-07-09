@@ -53,7 +53,7 @@ A blog app with frontend built in TypeScript with Next.js, and integrated with a
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/oluwasadeoyesina)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oluwasadeoyesina)
 - 📧 oyesinaoyedun@yahoo.com
 
 ---
