@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwasade Oyesina.
 
-I'm a **Junior Software Engineer** passionate about building web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, and **Node.js**, and I'm constantly learning new technologies to improve my craft.
+I'm a **Junior Software Engineer** passionate about building web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, and **Node.js**, and I'm constantly learning new technologies to improve my craft in this field.
 
 - 🌱 I’m currently refreshing my Django web framework skill.
 
