@@ -35,20 +35,20 @@ Here are a few things I've been working on:
 
 🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend)** _(in progress)_ and
 **[Shade's Blog App (backend)](https://github.com/OyedunOye/blog-backend)**
-A blog app with frontend built with Next.js using TypeScript. Uses tanstack react-query library for backend API service calls, integrates react-quill-new text editor for users to write and style their blog articles and provides a lot of functionalities such as dynamic blog search by its title, like, book mark and adding comments to blogs, and also ability for users to edit or delete their comments as well as modify their user profiles. The frontend is integrated with an Express.js Node backend connected to MongoDB database and cloudinary for blogs' images and users' profile pictures storage. **[Link to the deployed app](https://blog-frontend-pi-blush.vercel.app/)**
+A blog app with frontend built with Next.js using TypeScript. Uses tanstack react-query library for backend API service calls, integrates react-quill-new text editor for users to write and style their blog articles and provides a lot of functionalities such as dynamic blog search by its title, like, book mark and adding comments to blogs, and also ability for users to edit or delete their comments as well as modify their user profiles. The frontend is integrated with an Express.js Node backend connected to MongoDB database and cloudinary for blogs' images and users' profile pictures storage. **[Link to deployed app](https://blog-frontend-pi-blush.vercel.app/)**
 
 🔹 **[Note App (frontend)](https://github.com/OyedunOye/note-app-frontend)** and
 **[Note App (backend)](https://github.com/OyedunOye/note-app-backend)**
-A real-time note taking app with frontend built by React + Vite, and integrated with an Express.js Node backend connected to MongoDB. **[Link to the deployed app](https://note-app-frontend-drab.vercel.app/)**
+A real-time note taking app with frontend built by React + Vite, and integrated with an Express.js Node backend connected to MongoDB. **[Link to deployed app](https://note-app-frontend-drab.vercel.app/)**
 
 🔹 **[Budget Allocator](https://github.com/OyedunOye/budget_allocator)**
-A budgetting app used to allocate expenses amount. It is built with React + Vite, manages state with react Context API, and styled with Tailwind CSS. **[Link to the deployed app](https://budget-allocator-taupe.vercel.app/)**
+A budgetting app used to allocate expenses amount. It is built with React + Vite, manages state with react Context API, and styled with Tailwind CSS. **[Link to deployed app](https://budget-allocator-taupe.vercel.app/)**
 
 🔹 **[Weather App](https://github.com/OyedunOye/project2-weather-app)**
-A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and styled with Tailwind CSS. **[Link to the deployed app](https://weather-app-five-bay-21.vercel.app/)**
+A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and styled with Tailwind CSS. **[Link to deployed app](https://weather-app-five-bay-21.vercel.app/)**
 
 🔹 **[Trafalgar Healthcare Landing Page](https://github.com/OyedunOye/trafalgar-healthcare)**
-A landing page UI built with React and plain CSS. **[Link to the deployed app](https://trafalgar-healthcare-rho.vercel.app/)**
+A landing page UI built with React and plain CSS. **[Link to deployed app](https://trafalgar-healthcare-rho.vercel.app/)**
 
 ---
 
