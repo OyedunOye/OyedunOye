@@ -2,7 +2,6 @@
 
 I'm a **Software Engineer** passionate about building web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, **Next.js** and **Node.js**, and I am constantly learning new technologies to improve my craft in this field.
 
-- 🌱 I’m currently refreshing my Django web framework skill.
 
 ---
 
