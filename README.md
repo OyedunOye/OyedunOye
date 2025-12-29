@@ -32,7 +32,7 @@ I'm a **Software Engineer** passionate about building web apps that solve real-w
 
 Here are a few things I've been working on:
 
-🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend)** _(in progress)_ and
+🔹 **[Shade's Blog App (frontend)](https://github.com/OyedunOye/blog-frontend)** and
 **[Shade's Blog App (backend)](https://github.com/OyedunOye/blog-backend)**
 A blog app with frontend built with Next.js using TypeScript. Uses tanstack react-query library for backend API service calls, integrates react-quill-new text editor for users to write and style their blog articles and provides a lot of functionalities such as dynamic blog search by its title, like, book mark and adding comments to blogs, and also ability for users to edit or delete their comments as well as modify their user profiles. The frontend is integrated with an Express.js Node backend connected to MongoDB database and cloudinary for blogs' images and users' profile pictures storage. **[Click here to view the deployed app](https://blog-frontend-pi-blush.vercel.app/)**
 
