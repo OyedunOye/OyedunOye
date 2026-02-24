@@ -42,6 +42,9 @@ A real-time note taking app with frontend built by React + Vite, and integrated 
 🔹 **Budget Allocator**
 A budgetting app used to allocate expenses amount. It is built with React + Vite, manages state with react Context API, and styled with Tailwind CSS. **[Link to deployed app](https://budget-allocator-taupe.vercel.app/)**
 
+🔹 **[Weather App](https://github.com/OyedunOye/project2-weather-app)**
+A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and styled with Tailwind CSS. **[Link to deployed app](https://weather-app-five-bay-21.vercel.app/)**
+
 🔹 **Trafalgar Healthcare Landing Page**
 A landing page UI built with React and plain CSS. It was the transformation of figma design to a website landing page. **[Link to deployed app](https://trafalgar-healthcare-rho.vercel.app/)**
 
