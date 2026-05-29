@@ -46,7 +46,7 @@ A budgetting app used to allocate expenses amount. It is built with React + Vite
 A weather app that put my knowledge of front end development into practice. Integrates the OpenWeather One Call API 3.0 service into UI built with React and styled with Tailwind CSS. **[Link to deployed app](https://weather-app-five-bay-21.vercel.app/)**
 
 🔹 **Trafalgar Healthcare Landing Page**
-A landing page UI built with React and plain CSS. It was the transformation of figma design to a website landing page. **[Link to deployed app](https://trafalgar-healthcare-rho.vercel.app/)**
+A landing page UI built with React and plain CSS. It was the transformation of figma design to a website landing page. **[Link to the deployed app](https://trafalgar-healthcare-rho.vercel.app/)**
 
 ---
 
