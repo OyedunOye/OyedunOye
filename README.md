@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwasade Oyesina.
 
-I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passionate about building web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, **Next.js** and **Node.js**, and I am constantly learning new technologies to improve my craft in this field.
+I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passionate about building and deploying web apps that solve real-world problems. I love working with **JavaScript**, **TypeScript**, **Python**, **React**, **Next.js** and **Node.js**, and I am constantly learning new technologies to improve my craft in this field.
 
 <!-- 🔭 I am currently working on a fullstack Next.js app, [DevFlow](https://github.com/OyedunOye/devflow), inspired by Stack Overflow, an improved community-driven platform for asking and answering programming questions where I incoporated OpenAI so that users could leverage AI to help them enhance their responses to the questions. -->
 
