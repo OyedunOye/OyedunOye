@@ -44,7 +44,10 @@ I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passion
 
 ## 🚀 Projects
 
-Here are a some projects that I have worked on:
+Here are some projects that I have worked on:
+
+🔹 **[CI/CD Pipeline for Containerized Java Microservices on AWS EKS](https://github.com/OyedunOye/eks-java-maven-app.git)** 
+Self-hosted CI/CD platform automating build, containerization, and deployment of a Java microservice to Kubernetes. Built to incorporate production DevOps practices around pipeline reusability, secrets management, and private-registry-based container delivery.
 
 🔹 **[Shade's Blog App (frontend UI)](https://github.com/OyedunOye/blog-frontend)** 
 A blog app with frontend built with Next.js using TypeScript. Uses tanstack react-query library for backend API service calls, integrates react-quill-new text editor for users to write and style their blog articles and provides a lot of functionalities such as dynamic blog search by its title, like, book mark and adding comments to blogs, and also ability for users to edit or delete their comments as well as modify their user profiles. The frontend is integrated with an Express.js Node backend connected to MongoDB database and cloudinary for blogs' images and users' profile pictures storage. **[Link to the deployed app](https://blog-frontend-pi-blush.vercel.app/)**
