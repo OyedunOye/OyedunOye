@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwasade Oyesina.
 
-I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passionate about building and deploying web applications that solve real-world problems. I love building apps with **JavaScript**, **TypeScript**, **Python**, **React**, **Next.js** and **Node.js**, and I am constantly learning new technologies to improve my craft in this field.
+I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passionate about building cloud infrastructure and deploying web applications that solve real-world problems. I love building apps with **JavaScript**, **TypeScript**, **Python**, **React**, **Next.js** and **Node.js**, and I am constantly learning new technologies to improve my craft in this field.
 
 <!-- 🔭 I am currently working on a fullstack Next.js app, [DevFlow](https://github.com/OyedunOye/devflow), inspired by Stack Overflow, an improved community-driven platform for asking and answering programming questions where I incoporated OpenAI so that users could leverage AI to help them enhance their responses to the questions. -->
 
@@ -25,6 +25,7 @@ I'm a **Software Engineer**, **DevOps Engineer** and **data enthusiast** passion
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
